@@ -1,0 +1,15 @@
+C:\Users\eldar\Desktop\Ev tapsirigi\tapsiriq 1\LINQ Praktika\LINQ Praktika\bin\Debug\net10.0\LINQ Praktika.exe
+C:\Users\eldar\Desktop\Ev tapsirigi\tapsiriq 1\LINQ Praktika\LINQ Praktika\bin\Debug\net10.0\LINQ Praktika.deps.json
+C:\Users\eldar\Desktop\Ev tapsirigi\tapsiriq 1\LINQ Praktika\LINQ Praktika\bin\Debug\net10.0\LINQ Praktika.runtimeconfig.json
+C:\Users\eldar\Desktop\Ev tapsirigi\tapsiriq 1\LINQ Praktika\LINQ Praktika\bin\Debug\net10.0\LINQ Praktika.dll
+C:\Users\eldar\Desktop\Ev tapsirigi\tapsiriq 1\LINQ Praktika\LINQ Praktika\bin\Debug\net10.0\LINQ Praktika.pdb
+C:\Users\eldar\Desktop\Ev tapsirigi\tapsiriq 1\LINQ Praktika\LINQ Praktika\obj\Debug\net10.0\LINQ Praktika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldar\Desktop\Ev tapsirigi\tapsiriq 1\LINQ Praktika\LINQ Praktika\obj\Debug\net10.0\LINQ Praktika.AssemblyInfoInputs.cache
+C:\Users\eldar\Desktop\Ev tapsirigi\tapsiriq 1\LINQ Praktika\LINQ Praktika\obj\Debug\net10.0\LINQ Praktika.AssemblyInfo.cs
+C:\Users\eldar\Desktop\Ev tapsirigi\tapsiriq 1\LINQ Praktika\LINQ Praktika\obj\Debug\net10.0\LINQ Praktika.csproj.CoreCompileInputs.cache
+C:\Users\eldar\Desktop\Ev tapsirigi\tapsiriq 1\LINQ Praktika\LINQ Praktika\obj\Debug\net10.0\LINQ Praktika.dll
+C:\Users\eldar\Desktop\Ev tapsirigi\tapsiriq 1\LINQ Praktika\LINQ Praktika\obj\Debug\net10.0\refint\LINQ Praktika.dll
+C:\Users\eldar\Desktop\Ev tapsirigi\tapsiriq 1\LINQ Praktika\LINQ Praktika\obj\Debug\net10.0\LINQ Praktika.pdb
+C:\Users\eldar\Desktop\Ev tapsirigi\tapsiriq 1\LINQ Praktika\LINQ Praktika\obj\Debug\net10.0\LINQ Praktika.genruntimeconfig.cache
+C:\Users\eldar\Desktop\Ev tapsirigi\tapsiriq 1\LINQ Praktika\LINQ Praktika\obj\Debug\net10.0\ref\LINQ Praktika.dll
+C:\Users\eldar\Desktop\Ev tapsirigi\tapsiriq 1\LINQ Praktika\LINQ Praktika\obj\Debug\net10.0\LINQ Pra.E0F6DA2F.Up2Date
